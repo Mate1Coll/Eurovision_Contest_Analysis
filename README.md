@@ -1,7 +1,7 @@
 # Eurovision_Contest_Analysis
 
 In this work we analyze the Eurovision Song Contest (ESC). Europe’s multicultural diversity suggests that voting preferences between countries could be
-influenced by factors such as language, political relationships, or ideological similarities. Then, in this work we try to adress the following questions:
+influenced by factors such as language, political relationships, or ideological similarities. Then, in this work we try to answer the following questions:
 
 - **Are there voting biases between countries?**
 - **Do voting patterns suggest consistent alliances or blocs among countries?**
