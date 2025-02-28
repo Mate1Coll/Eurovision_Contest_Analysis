@@ -1,5 +1,3 @@
-# Eurovision_Contest_Analysis
-
 # Eurovision Song Contest Voting Analysis  
 
 In this work, we analyze the Eurovision Song Contest (ESC). Europe’s multicultural diversity suggests that voting preferences between countries could be influenced by factors such as language, political relationships, or ideological similarities. Then, in this work, we try to answer the following questions:  
@@ -24,7 +22,11 @@ We perform a full analysis of the voting portfolios of each country throughout a
 - **Correlation in Voting Patterns:** We analyze how similar the voting patterns are among different countries. Thus, we compute a correlation matrix from the data and perform hierarchical clustering. Then, we provide a graph visualization of the clusters.  
 - **Random Contest Comparison:** Finally, we compare the real voting frequency among the members of the obtained clusters with a random contest to study whether voting similarity implies vote exchanges. Additionally, we compute the bias among the members of each cluster.  
 
-## Results and Citations  
+## Results 
 
 The results are plotted in this notebook and presented in the PDF file presentation of this repository. All citations are displayed in the PDF presentation.  
+
+## Citation  
+
+This project uses data from the [Eurovision Dataset](https://github.com/Spijkervet/eurovision-dataset) by [Spijkervet](https://github.com/Spijkervet).  
 
