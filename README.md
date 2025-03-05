@@ -24,9 +24,9 @@ We perform a full analysis of the voting portfolios of each country throughout a
 
 ## Results 
 
-The results are plotted in this notebook and presented in the PDF file presentation of this repository. All citations are displayed in the PDF presentation.  
+The results are plotted in this notebook and presented in the PDF file presentation of this repository.  
 
 ## Citation  
 
-This project uses data from the [Eurovision Dataset](https://github.com/Spijkervet/eurovision-dataset) by [Spijkervet](https://github.com/Spijkervet).  
+This project uses data from the [Eurovision Dataset](https://github.com/Spijkervet/eurovision-dataset) by [Spijkervet](https://github.com/Spijkervet). All citations are displayed at the end of the PDF presentation.
 
